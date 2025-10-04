@@ -18,7 +18,7 @@
 <p text-align="justify"> Sou estudante de engenharia de software em transição da área logística para desenvolvimento Back-End com Java. Experiência prévia em controle de processos, relatórios e suporte administrativo, com forte organização e foco em resultados. Atualmente, desenvolvendo competências em Java, Spring Boot, APIs REST, bancos de dados relacionais, versionamento com Git e boas práticas de programação. Buscando sempre aplicar novos conhecimentos técnicos e agregar valor com visão analítica e experiência prática em rotinas de suporte.</p>
 <h3>Meu conjunto de habilidades técnicas inclui:
 </h3>
- <ul>Java (Spring Boot) </ul>
+ <ul>Java (Spring Boot)  </ul>
  <ul></ul>
  </h3>
  <ul>Html & CSS </ul>
